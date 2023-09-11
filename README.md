@@ -27,7 +27,7 @@
   <li> École 42 (<a href="https://42seoul.kr/seoul42/main/view">42Seoul</a>) 본과정 Cadet <sub>(2022.07 ~ 2023.06)</sub></li>
   <li> 신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS16th-VOTE/django-vote-16th">CEOS</a> • 16기 BE <sub>(2022.09 ~ 2023.02)</sub></li>
   <li> 신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 17기 BE 운영진 <sub>(2023.03 ~ 2023.08)</sub></li>
-  <li> IT 연합동아리 <a href="https://github.com/Central-MakeUs">CMC(Central Makeus Challenge)</a> 13th Server파트 <sub>(2023.05 ~ )</sub></li>
+  <li> IT 연합동아리 <a href="https://github.com/Central-MakeUs">CMC(Central Makeus Challenge)</a> 13th Server파트 <sub>(2023.05 ~ 2023.09)</sub></li>
   <br>
 
   <li> <a href="https://github.com/Gosrock/Ticket-Front-22th">고스락</a> -  티켓 예매 서비스 2차 • FE <sub> (2022.07 ~ 2022.08)</sub></li>

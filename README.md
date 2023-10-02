@@ -13,7 +13,6 @@
   ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
   ![image](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
   ![image](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-  ![image](https://img.shields.io/badge/django-118414?style=flat-square&logo=django&logoColor=white)
   <br>
   
   ![image](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)

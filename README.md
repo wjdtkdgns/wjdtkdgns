@@ -31,7 +31,7 @@
   <br>
 
   <li> <a href="https://github.com/Gosrock/Ticket-Front-22th">고스락</a> -  티켓 예매 서비스 2차 • FE <sub> (2022.07 ~ 2022.08)</sub></li>
-  <li> <a href="https://github.com/teampuls/Teamplus-Backend">Teampple</a> - 대학생 팀프로젝트 협업 툴 • BE <sub>(2022.12 ~ )</sub></li>
+  <li> <a href="https://github.com/teampuls/Teamplus-Backend">Teampple</a> - 대학생 팀프로젝트 협업 툴 • BE <sub>(2022.12 ~ 2023.08)</sub></li>
   <li> <a href="https://github.com/Gosrock/DuDoong-Front"> 두둥 </a> - 모두를 위한 공연 라이프 • FE <sub>(2023.01 ~ 2023.03)</sub></li>
   <li> <a href="https://github.com/CEOS-Developers/CEOS-BE">CEOS</a> - 세오스 공식 홈페이지 제작 • BE <sub>(2023.04 ~ 2023.08)</sub></li>
   <li> <a href="https://github.com/Central-MakeUs/AllChive_Server">Allchive</a> - 손쉽고 현명하게 관리하는 올카이빙 • BE <sub>(2023.06 ~ )</sub></li>

@@ -9,8 +9,12 @@
   <br>
   
 #### 📌 BE
+  ![image](https://img.shields.io/badge/Java-007396?style=flat-squaree&logoColor=white)
+  ![image](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-squaree&logo=kotlin&logoColor=white)
   ![image](https://img.shields.io/badge/Spring-6DB33F?style=flat-squaree&logo=spring&logoColor=white)
   ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
+  <br>
+  
   ![image](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
   ![image](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
   <br>

@@ -30,7 +30,7 @@
   <li> École 42 (<a href="https://42seoul.kr/seoul42/main/view">42Seoul</a>) 본과정 Cadet <sub>(2022.07 ~ 2023.06)</sub></li>
   <li> <a href="https://github.com/CEOS-Developers">CEOS</a> • 16기 BE, 17기 BE 운영진 <sub>(2022.09 ~ 2023.08)</sub></li>
   <li> <a href="https://github.com/Central-MakeUs">CMC(Central Makeus Challenge)</a> • 13th Server <sub>(2023.05 ~ 2023.09)</sub></li>
-  <li> <a href="https://github.com/YAPP-Github">YAPP</a> • 23기 BE <sub>(2023.10 ~ )</sub></li>
+  <li> <a href="https://github.com/YAPP-Github">YAPP</a> • 23기 BE <sub>(2023.10 ~ 2024.02)</sub></li>
 
 <h2></h2>
 
